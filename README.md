@@ -119,13 +119,14 @@ To establish and operate this project environment, please follow these steps:
    print(diagnosis_result)
   ```
 
-4. **Future Improvements**:
+### 4. **Future Improvements**
 
-- Implement adaptive or context-aware chunking
-- Fine-tune embedding models for improved retrieval
-- Integrate advanced prompt optimization techniques
-- Add feedback loops or RLHF for model refinement
+- Implement adaptive or context-aware chunking  
+- Fine-tune embedding models for improved retrieval  
+- Integrate advanced prompt optimization techniques  
+- Add feedback loops or RLHF for model refinement  
 - Explore Dockerization and scalable deployment strategies
+
 
    
    
