@@ -108,7 +108,7 @@ To establish and operate this project environment, please follow these steps:
    google-generativeai
    ```
 3. **Usage Example**:
-   ```
+   ```python
    from generate import Generator
 
    generator = Generator(api_key="YOUR_GEMINI_API_KEY")
@@ -117,9 +117,9 @@ To establish and operate this project environment, please follow these steps:
    diagnosis_result = generator.process_query(patient_query)
 
    print(diagnosis_result)
-  ```
+   ```
 
-### 4. **Future Improvements**
+4.**Future Improvements**
 
 - Implement adaptive or context-aware chunking  
 - Fine-tune embedding models for improved retrieval  
