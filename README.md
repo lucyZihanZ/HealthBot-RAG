@@ -1,4 +1,4 @@
-# healthbot-RAG: Medical Diagnosis AI: A Retrieval-Augmented Generation System for Medical Diagnostics
+# Healthbot-RAG: Medical Diagnosis AI: A Retrieval-Augmented Generation System for Medical Diagnostics
 
 ## Project Overview
 
